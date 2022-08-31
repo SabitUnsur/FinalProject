@@ -2087,7 +2087,8 @@
           "DataAccess": "1.0.0",
           "Entities": "1.0.0",
           "FluentValidation": "11.1.0",
-          "Microsoft.AspNetCore.Http.Abstractions": "2.2.0"
+          "Microsoft.AspNetCore.Http.Abstractions": "2.2.0",
+          "Microsoft.Extensions.DependencyInjection": "6.0.0"
         },
         "compile": {
           "bin/placeholder/Business.dll": {}

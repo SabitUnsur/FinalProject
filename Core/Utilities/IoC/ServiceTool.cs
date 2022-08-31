@@ -6,7 +6,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace Core.Utilities.IoC
-{
+{ //31.08
     public static class ServiceTool
     {
         //ASPECT'I INJECTION EDEBILMEK ICIN OLUSTURULDU // 
