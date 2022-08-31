@@ -1,0 +1,3 @@
+C:\Users\sabit\source\repos\FinalProject\ConsoleUİ\obj\Debug\ConsoleUİ.csproj.AssemblyReference.cache
+C:\Users\sabit\source\repos\FinalProject\ConsoleUİ\obj\Debug\ConsoleUİ.csproj.SuggestedBindingRedirects.cache
+C:\Users\sabit\source\repos\FinalProject\ConsoleUİ\obj\Debug\ConsoleUİ.csproj.CoreCompileInputs.cache

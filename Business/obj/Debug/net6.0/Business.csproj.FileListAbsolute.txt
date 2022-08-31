@@ -1,0 +1,5 @@
+C:\Users\sabit\source\repos\FinalProject\Business\obj\Debug\net6.0\Business.csproj.AssemblyReference.cache
+C:\Users\sabit\source\repos\FinalProject\Business\obj\Debug\net6.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sabit\source\repos\FinalProject\Business\obj\Debug\net6.0\Business.AssemblyInfoInputs.cache
+C:\Users\sabit\source\repos\FinalProject\Business\obj\Debug\net6.0\Business.AssemblyInfo.cs
+C:\Users\sabit\source\repos\FinalProject\Business\obj\Debug\net6.0\Business.csproj.CoreCompileInputs.cache
