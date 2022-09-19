@@ -20,6 +20,7 @@ namespace Business.Abstract
         IResult Add(Product product); //void olduğu için IResult
         IDataResult <List<ProductDetailDto>> GetProductDetails();
         IResult Update(Product product);
+        IResult AddTransactionalTest(Product product);
 
     }
 }
